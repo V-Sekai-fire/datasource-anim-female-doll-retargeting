@@ -18,4 +18,4 @@ Then open `project.godot` in the engine's editor.
 
 ## Licence
 
-No licence is stated for the project as a whole. Only `SK_fashion_girl` carries a LICENSE file; the other models and the animation clips state no licence.
+MIT. See [LICENSE](LICENSE).
